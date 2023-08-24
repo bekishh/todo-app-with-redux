@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.22b897b0.css",
-    "main.js": "/your-repo-name/static/js/main.798ba95b.js",
-    "index.html": "/your-repo-name/index.html",
-    "main.22b897b0.css.map": "/your-repo-name/static/css/main.22b897b0.css.map",
-    "main.798ba95b.js.map": "/your-repo-name/static/js/main.798ba95b.js.map"
+    "main.css": "/todo-app-with-redux/static/css/main.22b897b0.css",
+    "main.js": "/todo-app-with-redux/static/js/main.798ba95b.js",
+    "index.html": "/todo-app-with-redux/index.html",
+    "main.22b897b0.css.map": "/todo-app-with-redux/static/css/main.22b897b0.css.map",
+    "main.798ba95b.js.map": "/todo-app-with-redux/static/js/main.798ba95b.js.map"
   },
   "entrypoints": [
     "static/css/main.22b897b0.css",
